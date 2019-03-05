@@ -37,13 +37,13 @@ https://github.com/Kimw6/NemoLib-Java
 Compile Nauty
 -------------
 * NemoLib java is dependent on nauty program for graph label. Therefore, you should have a working "labelg.exe" program in your computer. 
-1) From http://pallini.di.uniroma1.it/ Download nauty26r10.tar.gz
-2-1) Use cygwin 
+* From http://pallini.di.uniroma1.it/ Download nauty26r10.tar.gz
+* If you are using cygwin 
     - Open cygwin-terminal
     - Go to the downloaded folder (for example cd /cygdrive/c/users/Name/programs)
     -Then use as if it is a linux-shell
- 2-2) Or if you are using netbeans IDE (using cygwin), just create a project with existing source, will build automatically
- 3) Locate "labelg.exe" program
+ * Or if you are using netbeans IDE (using cygwin), just create a project with existing source, will build automatically
+ * Locate "labelg.exe" program
 
 
 Contact
